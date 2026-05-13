@@ -55,7 +55,7 @@
 
 ## 📞 Контакты
 
-По вопросам и предложениям: [https://t.me/losestrik1337] ownertualeta tg
+По вопросам и предложениям: [https://t.me/autofishbotNTE] ownertualeta tg
 
 ---
 
