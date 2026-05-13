@@ -55,8 +55,42 @@
 
 ## 📞 Контакты
 
-По вопросам и предложениям: [https://t.me/autofishbotNTE] ownertualeta tg
+- **Telegram канал (новости и обновления):** [@autofishbotNTE](https://t.me/autofishbotNTE)
+- **Личные сообщения (по вопросам):** [@ownertualeta](https://t.me/ownertualeta)
 
 ---
 
 **Приятной рыбалки!** 🎣
+
+
+
+
+
+## ❓ FAQ (Frequently Asked Questions)
+## 🔒 Safety & False Positives
+
+Some antivirus software may flag this bot as a potential threat. **This is a false positive.**
+
+### Why does this happen?
+The bot simulates keyboard presses (`A`, `D`, `F`) and mouse clicks — actions that are also commonly used by malicious software. Therefore, some antivirus programs may incorrectly mark it as suspicious.
+
+### What the bot actually does:
+- ✅ Takes screenshots of your screen (to detect the fishing bar)
+- ✅ Presses keys A, D, F (to control the fishing mini-game)
+- ✅ Clicks the left mouse button (auto-clicker)
+
+### What the bot does NOT do:
+- ❌ No internet connection (except optional manual updates)
+- ❌ No data collection or logging
+- ❌ No keyloggers or spyware
+
+### 🔗 Source Code
+The full source code is open for review:  
+👉 [https://github.com/SAMES221/Neverness-Fishing-Bot/tree/main](https://github.com/SAMES221/Neverness-Fishing-Bot/tree/main)
+
+### Recommendations:
+1. **Run as administrator** — this is required for the bot to work
+2. Add the `.exe` to your antivirus exceptions if you trust the source
+3. Review the source code yourself if you have any doubts
+
+> 💡 *This is a common issue for automation tools and game bots. The same applies to programs like AutoHotkey, Pulover's Macro Creator, etc.*
